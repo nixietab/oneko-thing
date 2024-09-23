@@ -1,4 +1,4 @@
 WIP README
-like this:
+you can add it using jsdelivr
 
-<script src="https://raw.githubusercontent.com/nixietab/oneko-thing/refs/heads/main/oneko.js"></script>
+https://cdn.jsdelivr.net/gh/nixietab/oneko-thing/oneko.js
